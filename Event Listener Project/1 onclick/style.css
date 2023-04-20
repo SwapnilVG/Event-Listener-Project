@@ -1,0 +1,20 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Click_Me{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 400px;
+  background-color: #909090;
+  cursor: pointer;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 25px;
+  border-radius: 10px;
+  font-weight: 600;
+}

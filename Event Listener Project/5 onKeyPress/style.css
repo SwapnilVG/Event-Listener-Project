@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#display{
+    color: brown;
+}
+
+#input{
+    font-size: 25px;
+}
